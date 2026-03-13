@@ -1,0 +1,9 @@
+export { default as HeroSection } from "./HeroSection";
+export { default as ProblemSection } from "./ProblemSection";
+export { default as SolutionSection } from "./SolutionSection";
+export { default as FeatureSection } from "./FeatureSection";
+export { default as StatsSection } from "./StatsSection";
+export { default as TestimonialSection } from "./TestimonialSection";
+export { default as OfferSection } from "./OfferSection";
+export { default as FAQSection } from "./FAQSection";
+export { default as ClosingCTASection } from "./ClosingCTASection";
